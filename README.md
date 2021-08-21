@@ -16,7 +16,11 @@
 -
 
 ## 2. [프로젝트 요약](https://github.com/DonghyunAnn/Gbig-Hackertone/blob/main/Output/%EC%84%9C%EC%9A%B82_65%EC%A1%B0_%20%EC%B5%9C%EC%A2%85PPT.pdf)
-**[분석 보고서](https://github.com/DonghyunAnn/Gbig-Hackertone/blob/main/Output/%EC%84%9C%EC%9A%B82_65%EC%A1%B0_%EB%B6%84%EC%84%9D%EA%B2%B0%EA%B3%BC%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)에 더 상세한 내용이 첨부돼 있음.**
+
+**[분석 보고서](https://github.com/DonghyunAnn/Gbig-Hackertone/blob/main/Output/%EC%84%9C%EC%9A%B82_65%EC%A1%B0_%EB%B6%84%EC%84%9D%EA%B2%B0%EA%B3%BC%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)에 더 상세한 내용이 첨부돼 있습니다.**
+
+**[data 폴더](https://github.com/DonghyunAnn/Gbig-Hackertone/tree/main/data)에 분석에 사용된 데이터가 정리돼 있습니다.** 
+
 ### (1) 분석개요
 ```
 - 최근 온라인 음식 배달 시장과, 배달업 시장의 규모가 증가하고 있음
