@@ -1,0 +1,2 @@
+읍면동경계shp_(LSCP_MCLP).zip filter=lfs diff=lfs merge=lfs -text
+배달데이터_(시계열분석).csv filter=lfs diff=lfs merge=lfs -text
