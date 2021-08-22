@@ -60,7 +60,7 @@
 [1] Church, R., & ReVelle, C. (1974). The maximal covering location problem. In Papers of the regional science association, 32(1), 101-118.
 [2] Eva Patel, Daharmender Singh Kushwaha (2020). Clustering Cloud Workloads: K-means vs Gaussian Mixture Model, 171, 158-167.
 [3] Toregas, C., Swain, R., ReVelle, C., & Bergman, L. (1971). The location of emergency service facilities. Operations research, 19(6), 1363-1373.
-[4] 권민철.(2020).파이썬 머신러닝 완벽 가이드.위키북스.
+[4] 권민철. (2020).파이썬 머신러닝 완벽 가이드.위키북스.
 [5] 김우철. (2006).현대통계학, 영지문화사.
 [6] 김재희. (2005). SAS를 이용한 다변량 통계 분석. 교우사.
 [7] 이윤정, 이기용. (2004). 화자 식별을 위한 GMM의 혼합 성분의 개수 추정. 음성과학, 11(2), 237 - 245.
