@@ -12,7 +12,7 @@
 - [황다빈](https://github.com/DonghyunAnn/Gbig-Hackathon/tree/master/notebook/%ED%99%A9%EB%8B%A4%EB%B9%88): [계층적군집분석(Hierarchical Clustering)](https://github.com/DonghyunAnn/Gbig-Hackathon/blob/master/notebook/%ED%99%A9%EB%8B%A4%EB%B9%88/%EA%B3%84%EC%B8%B5%EC%A0%81%EA%B5%B0%EC%A7%91%EB%B6%84%EC%84%9D_pcadata.ipynb), [K-Means Clustering](https://github.com/DonghyunAnn/Gbig-Hackathon/blob/master/notebook/%ED%99%A9%EB%8B%A4%EB%B9%88/K-Means_pcadata.ipynb)
 - [하성민](https://github.com/DonghyunAnn/Gbig-Hackathon/tree/master/notebook/%ED%95%98%EC%84%B1%EB%AF%BC): [Gaussian Mixture Model(GMM)](https://github.com/DonghyunAnn/Gbig-Hackathon/blob/master/notebook/%ED%95%98%EC%84%B1%EB%AF%BC/GMM_3cluster.ipynb)
 - [안동현](https://github.com/DonghyunAnn/Gbig-Hackertone/tree/main/notebook/%EC%95%88%EB%8F%99%ED%98%84): [LSCP](https://github.com/DonghyunAnn/Gbig-Hackertone/blob/main/notebook/%EC%95%88%EB%8F%99%ED%98%84/LSCP_MCLP_EMDdata.ipynb), [MCLP](https://github.com/DonghyunAnn/Gbig-Hackertone/blob/main/notebook/%EC%95%88%EB%8F%99%ED%98%84/MCLP_Roaddata.ipynb), [시계열분석](https://github.com/DonghyunAnn/Gbig-Hackertone/blob/main/notebook/%EC%95%88%EB%8F%99%ED%98%84/%EC%8B%9C%EA%B3%84%EC%97%B4%EB%B6%84%EC%84%9D_%EC%A0%84%EA%B5%AD.ipynb)
-- [민경욱](https://github.com/DonghyunAnn/Gbig-Hackathon/tree/master/notebook/%EB%AF%BC%EA%B2%BD%EC%9A%B1): [K-Medoids Clustering]()
+- [민경욱](https://github.com/DonghyunAnn/Gbig-Hackathon/tree/master/notebook/%EB%AF%BC%EA%B2%BD%EC%9A%B1): [K-Medoids Clustering](https://github.com/DonghyunAnn/Gbig-Hackathon/blob/master/notebook/%EB%AF%BC%EA%B2%BD%EC%9A%B1/K-Medoids.R)
 -
 -
 
