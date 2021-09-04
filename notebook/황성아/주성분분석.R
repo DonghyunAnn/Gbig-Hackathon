@@ -41,10 +41,3 @@ biplot(pca2,cex=c(0.5,0.75),main="Biplot")
 data_2 <- data[,c(2,3,6,13,14,15,16,18:20)]
 library(FactoMineR)
 PCA(data_2, scale.unit = TRUE, ncp = 3, graph = TRUE)
-
-# 상관분석
-data <- read.table("C:/Users/user/Desktop/data.txt",header = T, sep="\t")
-head(data)
-install.packages("psych")
-library(psych)
-pairs.panels(data)
