@@ -1,4 +1,4 @@
-data <- read.csv('C:/Users/82102/Desktop/data_final.csv')
+data <- read.csv('/data_final.csv')
 head(data)
 pca <- princomp(data[,2:20], cor=TRUE)
 names(pca)
