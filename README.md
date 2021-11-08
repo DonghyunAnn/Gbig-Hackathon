@@ -3,7 +3,7 @@
 - 팀명: 65조
 - 팀원: 김영욱💇‍♂️, 민경욱🙇‍♀️, 박해민🤴, 안동현👨‍💻, 하성민👩‍💼, 황다빈💁‍♀️, 황성아🤷‍♀️
 - 기간: 2020.08.02 ~ 2021.08.19 17:00
-- 분석도구: R, Python, QGIS1
+- 분석도구: R, Python, QGIS
 
 ## 1. 진행한 분석
 **[notebook 폴더](https://github.com/DonghyunAnn/Gbig-Hackertone/tree/main/notebook)에 개별적으로 정리했습니다.**
